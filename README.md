@@ -5,7 +5,7 @@
 I am Sujon Kumer. I am currently living in Dhaka, Bangladesh. I am very confident that i will do well in the development and programming sector. I motivate myself a lot and self-motivated.
 I am a learner and also hard-working. Software or application developer is my passion that's why I keep doing skill development myself.
 I am currently doing my B.sc at Southeast University in CSE Department.
-I'm staying motivated to reach my goals easily. I know in programming skills PHP, MySQL, Laravel, Livewire, HTML, CSS, Bootstrap, Tailwind css, Js, JQueary. So day by day I am doing my skill development.</p>
+I'm staying motivated to reach my goals easily. I know in programming skills PHP, MySQL, Laravel, Livewire, HTML, CSS, Bootstrap, Tailwind css, Js, JQueary Etc. So day by day I am doing my skill development.</p>
 <p dir="auto">Skills:  PHP, MySQL, Laravel, Livewire, HTML, CSS, Bootstrap, Tailwind css, Js, JQueary Etc.</p>
 <ul dir="auto">
   
