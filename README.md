@@ -24,12 +24,8 @@ I'm staying motivated to reach my goals easily. I know in programming skills PHP
     <a href="https://www.youtube.com/channel/UC9Tyt1CoeoNb4eHvSY0VAtQ" rel="nofollow"><img src="https://camo.githubusercontent.com/4a20e861b6593d07cef8e8b740e64a866ba7a9916d7e00a9c50c05e93a8096b8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f796f75747562652e737667" alt="YouTube" height="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" style="max-width: 100%;"></a></p>
   
   
-  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujonkumer)](https://github.com/anuraghazra/github-readme-stats)
 
-  <p dir="auto"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://camo.githubusercontent.com/ff279ca01a616fb8d5db4c994e37264b95f1c94115dfbcf1755605e4ae58e537/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d726173656c3039" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujonkumer" style="max-width: 100%;"></a></p>
-  
-  
-  
  
   
   <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/ec0ab18994566ce1f2164830ae29fc1d80f1ac3cd176c8c80cad61ab0f28f546/68747470733a2f2f677076632e6172747572696f2e6465762f726173656c3039"><img src="https://camo.githubusercontent.com/ec0ab18994566ce1f2164830ae29fc1d80f1ac3cd176c8c80cad61ab0f28f546/68747470733a2f2f677076632e6172747572696f2e6465762f726173656c3039" alt="Profile views" data-canonical-src="https://gpvc.arturio.dev/sujonkumer" style="max-width: 100%;"></a></p>
