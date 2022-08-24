@@ -12,7 +12,7 @@ I'm staying motivated to reach my goals easily. I know in programming skills PHP
 <!-- <li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently working on YouTube</li> -->
 <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning Advance JavaScript</li>
 <li><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">👯</g-emoji> I’m looking to collaborate on GitHub</li>
-<li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about Web Developer ( Laravel )</li>
+<li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about Web Developer (Php, Laravel)</li>
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: Email: <a href="mailto:sujonkumer8231@gmail.com">sujonkumer8231@gmail.com</a></li>
 <li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Fun fact: Football</li>
 </ul>
