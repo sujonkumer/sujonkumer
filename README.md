@@ -24,3 +24,6 @@ I'm staying motivated to reach my goals easily. I know in programming skills PHP
     <a href="https://www.youtube.com/channel/UCH_Yjs0bumlliTfMvmzNBog" rel="nofollow"><img src="https://camo.githubusercontent.com/4a20e861b6593d07cef8e8b740e64a866ba7a9916d7e00a9c50c05e93a8096b8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f796f75747562652e737667" alt="YouTube" height="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" style="max-width: 100%;"></a></p>
   
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sujonkumer)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sujonkumer&theme=react)
+
