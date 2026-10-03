@@ -324,10 +324,10 @@ Gov’t Nandigram Pilot High School, Bogura
 GPA: 4.82/5.00 | 2016
 
 ---
-
+<!--
 ## 📊 GitHub Stats
-
-<p align="center">
+-->
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sujonkumer&show_icons=true&theme=tokyonight&hide_border=true" alt="Sujon Kumer GitHub Stats" />
 </p>
 
@@ -337,13 +337,13 @@ GPA: 4.82/5.00 | 2016
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujonkumer&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</p>
+</p> -->
 
 ---
 
 ## 📫 Connect With Me
 
-* 💼 **LinkedIn:** [Sujon Kumer](#)
+* 💼 **LinkedIn:** [Sujon Kumer](https://www.linkedin.com/in/sujonid/)
 * 💻 **GitHub:** [sujonkumer](https://github.com/sujonkumer)
 * 🌐 **Portfolio:** [sujon.softtopit.com](https://www.sujon.softtopit.com/)
 * 📧 **Email:** [sujonkumer8231@gmail.com](mailto:sujonkumer8231@gmail.com)
